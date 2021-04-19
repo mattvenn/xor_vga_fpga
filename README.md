@@ -2,7 +2,11 @@
 
 Saw this: https://hackaday.com/2021/04/13/alien-art-drawn-with-surprisingly-simple-math/
 
-And made an FPGA implementation.
+The magic line is:
+
+    assign rrggbb = ((x_px ^ y_px) % 10'd9) == 1 ? 6'b111111 : 6'b000000;
+
+And made an [FPGA implementation](rtl/xor.v).
 
 ![xor demo](docs/xor.jpg)
 
