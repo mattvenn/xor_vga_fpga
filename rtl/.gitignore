@@ -1,0 +1,9 @@
+*log
+*vcd
+*out
+*swp
+*hex
+*asc
+*bin
+*json
+obj_dir/

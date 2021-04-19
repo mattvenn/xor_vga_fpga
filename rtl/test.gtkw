@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Apr 19 14:36:36 2021
+[*]
+[dumpfile] "/home/matt/work/fpga/xor_vga_fpga/rtl/test.vcd"
+[dumpfile_mtime] "Mon Apr 19 14:36:11 2021"
+[dumpfile_size] 14237
+[savefile] "/home/matt/work/fpga/xor_vga_fpga/rtl/test.gtkw"
+[timestart] 0
+[size] 1000 973
+[pos] -1 -1
+*-17.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[sst_width] 273
+[signals_width] 228
+[sst_expanded] 1
+[sst_vpaned_height] 267
+@28
+test.top_0.clk
+test.top_0.hsync
+test.top_0.vsync
+test.top_0.px_clk
+test.top_0.reset_n
+@23
+test.top_0.rrggbb[5:0]
+[pattern_trace] 1
+[pattern_trace] 0
